@@ -1,7 +1,7 @@
 {
-  "name": "vite-tests",
+  "name": "otp-challenge",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/vite-tests/src",
+  "sourceRoot": "apps/otp-challenge/src",
   "projectType": "application",
   "targets": {},
   "tags": []
