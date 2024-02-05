@@ -1,0 +1,8 @@
+{
+  "name": "vite-tests",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/vite-tests/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
